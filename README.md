@@ -9,7 +9,7 @@
 <li><b>R</b>eportUser - Get List of all users</li>
 <li><b>U</b>pdateUser - (Inconsistent fields)</li>
 <li><b>D</b>eleteUser</li>
-<li>Check for consistency (Address and Email field could be empty - That fields must be eliminated)<li>
+<li>Check for consistency (Address and Email field could be empty - That fields must be eliminated)</li>
 </ul>
 </ul>
 <p>
